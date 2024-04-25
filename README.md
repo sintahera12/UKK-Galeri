@@ -13,13 +13,13 @@ Pada halaman ini user/pengguna belum bisa mengunggah gambar karena belum masuk k
 
 Ini halaman unggah gambar
 
-![alt text](https://github.com/sintahera12/UKK-Galeri/blob/main/secse.PNG?raw=true)
+![alt text](https://github.com/sintahera12/UKK-Galeri/blob/main/secsecse.PNG?raw=true)
 
 ## 3. Halaman Setelah user Login
 
 Pada halaman ini user setelah login.
 
-![alt text](https://github.com/sintahera12/UKK-Galeri/blob/main/secsecse.PNG?raw=true)
+![alt text](https://github.com/sintahera12/UKK-Galeri/blob/main/secse.PNG?raw=true)
 
 ## 4. Halaman Detail
 
