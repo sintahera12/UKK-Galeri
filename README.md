@@ -21,7 +21,7 @@ Pada halaman ini user setelah login.
 
 ![alt text](https://github.com/sintahera12/UKK-Galeri/blob/main/secsecse.PNG?raw=true)
 
-##4. Halaman Detail
+## 4. Halaman Detail
 
 Pada halaman detail dapat melihat caption sama kategori
 
